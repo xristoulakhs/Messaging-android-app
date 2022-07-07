@@ -10,9 +10,11 @@ You have to run 3 BrokerImp in different terminals so you have to check in confi
 In the directory distributedSystemsApp you can run the [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjw5NqVBhAjEiwAeCa97QJYOcAXgbIRdjDRrvQ9i7tumjts5UzXxjKlDIYqH4b2zz_TphcZLBoC9EEQAvD_BwE&gclsrc=aw.ds) and run the application in emulator `Pixel 5 with api 30` was used in the project.
 After initialization of BrokerImp and the user's app. 
 
+Another iportant thing to run the code is to change the ip and ports at conf.txt at assets of android and ConnectionService. At the distributedSystems folder there is another conf.txt (located at data/broker), you should change them here too.
+
 To use the application you have to enter on of the following names: 
 
-    1. geogrge
+    1. george
     2. antonis
     3. marios
 
