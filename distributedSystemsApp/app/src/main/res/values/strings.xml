@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Distributed Systems App</string>
+    <string name="name">Name</string>
+    <string name="log_in">Log In Credentials</string>
+    <string name="send_photo_video">Media</string>
+    <string name="send_message">Send</string>
+    <string name="register_to_a_topic">Register to a topic!</string>
+    <string name="register">Register</string>
+    <string name="okay">okay</string>
+    <string name="input_an_ip_address">Input an ip address</string>
+</resources>
